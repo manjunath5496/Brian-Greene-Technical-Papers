@@ -19,7 +19,7 @@
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/bgtp(10).pdf" style="text-decoration:none;">Decoupling in an expanding universe: backreaction barely constrains short distance effects in the CMB</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/bgtp(11).pdf" style="text-decoration:none;">Dynamical Decompactication and Three Large Dimensions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/bgtp(11).pdf" style="text-decoration:none;">Dynamical Decompactification and Three Large Dimensions</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/bgtp(12).pdf" style="text-decoration:none;">An Effect of α′ Corrections on Racetrack Inflation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Brian-Greene-Technical-Papers/blob/master/bgtp(13).pdf" style="text-decoration:none;">A generic estimate of trans-Planckian modifications to the primordial power spectrum in inflation</a></li>                              
