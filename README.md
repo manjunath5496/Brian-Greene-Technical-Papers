@@ -1,3 +1,63 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Brian Greene</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Brian_Greene,_February_28,_2012.jpg"><img src="220px-Brian_Greene,_February_28,_2012.jpg" srcset="220px-Brian_Greene,_February_28,_2012.jpg" alt="Brian Greene, February 28, 2012.jpg" width="220" height="286" data-file-width="2924" data-file-height="3798" /></a>
+<div>Brian Greene, February 28, 2012</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Brian Randolph Greene</div>
+<br />February 9, 1963<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;57)</span><br />
+<div class="birthplace"><a title="New York City" href="https://en.wikipedia.org/wiki/New_York_City">New York City</a>, U.S.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a title="Harvard University" href="https://en.wikipedia.org/wiki/Harvard_University">Harvard University</a>&nbsp;(<a title="Bachelor of Arts" href="https://en.wikipedia.org/wiki/Bachelor_of_Arts">BA</a>)<br /><a title="Magdalen College, Oxford" href="https://en.wikipedia.org/wiki/Magdalen_College,_Oxford">Magdalen College, Oxford</a>&nbsp;(<a title="Doctor of Philosophy" href="https://en.wikipedia.org/wiki/Doctor_of_Philosophy">PhD</a>)</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="String theory" href="https://en.wikipedia.org/wiki/String_theory">String theory</a><br /><em><a title="The Elegant Universe" href="https://en.wikipedia.org/wiki/The_Elegant_Universe">The Elegant Universe</a></em><br /><em><a title="The Fabric of the Cosmos" href="https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos">The Fabric of the Cosmos</a></em><br /><em><a title="The Hidden Reality" href="https://en.wikipedia.org/wiki/The_Hidden_Reality">The Hidden Reality</a></em></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Tracy Day</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a title="Andrew Gemant Award" href="https://en.wikipedia.org/wiki/Andrew_Gemant_Award">Andrew Gemant Award</a>&nbsp;(2003)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Physics" href="https://en.wikipedia.org/wiki/Physics">Physics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="Cornell University" href="https://en.wikipedia.org/wiki/Cornell_University">Cornell University</a><br /><a title="Columbia University" href="https://en.wikipedia.org/wiki/Columbia_University">Columbia University</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Graham Ross (physicist)" href="https://en.wikipedia.org/wiki/Graham_Ross_(physicist)">Graham G. Ross</a><br /><a title="James Binney" href="https://en.wikipedia.org/wiki/James_Binney">James Binney</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
 <h2> Technical Papers</h2>
 
 <ul>
